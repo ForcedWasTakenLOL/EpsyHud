@@ -346,7 +346,7 @@ Scheme
 			"1"
 			{
 				"name"		"MADETOMMY"
-				"tall"		"28"
+				"tall"		"25"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -357,7 +357,7 @@ Scheme
 			"1"
 			{
 				"name"		"MADETOMMY"
-				"tall"		"72"
+				"tall"		"50"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
